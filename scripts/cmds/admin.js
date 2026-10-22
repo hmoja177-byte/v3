@@ -348,7 +348,7 @@ module.exports = {
 			const list =
 `(⁠✪ 𝐌𝐀𝐈𝐍 𝐀𝐃𝐌𝐈𝐍 ✪⁠)
 
-^⁠_𝐌_𝐀_𝐌_𝐔_𝐍_⁠^ 𝐁𝐁'𝐙
+^⁠_MOJAHAID⁠^ 𝐁𝐁'𝐙
 
  ${OWNER.join(" • ")}
 
