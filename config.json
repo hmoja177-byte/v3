@@ -12,8 +12,8 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "𝗧𝗠 ^〲𝗠𝗔𝗠𝗨𝗡ツ࿐ ⁰⁰⁷",
-  "prefix": "-",
+  "nickNameBot": "MOJAHAIDツ࿐ ⁰⁰⁷",
+  "prefix": ".",
   "noPrefix": {
     "enable": true,
     "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
@@ -23,7 +23,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61594650721376",
+    "61593067372418",
     "61593818074328",
     ""
   ],
@@ -39,7 +39,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61594650721376",
+      "61593067372418",
       "61593818074328"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
