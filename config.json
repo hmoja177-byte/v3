@@ -40,7 +40,7 @@
     "enable": false,
     "whiteListIds": [
       "61593067372418",
-      "61593818074328"
+      "1549202533879578"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
